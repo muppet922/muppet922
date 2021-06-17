@@ -1,14 +1,1 @@
-<html>
-<head>
-  <style>
-    body {
-    background: red;
-    }
-  </style>
-</head>
-
-<body>
-test
-  </body>
-
-</html>
+I'm just trying to find my way working on my projects.
