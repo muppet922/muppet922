@@ -1,1 +1,14 @@
-<h1>I just like THINGS</h1>
+<html>
+<head>
+  <style>
+    body {
+    background: red;
+    }
+  </style>
+</head>
+
+<body>
+test
+  </body>
+
+</html>
